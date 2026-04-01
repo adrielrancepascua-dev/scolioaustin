@@ -35,7 +35,7 @@ const annotations: CurvatureAnnotation[] = [
   },
   {
     min: 40,
-    max: 90,
+    max: 100,
     label: "Severe",
     description: "Surgical Consultation Range",
     color: "rgba(239, 68, 68, 0.6)",
